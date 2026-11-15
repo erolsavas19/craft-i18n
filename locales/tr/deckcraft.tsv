@@ -106,10 +106,10 @@
 	Alt\nText	Alternatif\nMetin
 	An open-source, clean-room project. Not affiliated with Microsoft.	Açık kaynaklı, temiz oda yöntemiyle geliştirilen bir proje. Microsoft ile bağlantısı yoktur.
 	Animated GIF (.gif)	Hareketli GIF (.gif)
-	Animation Painter (double-click to keep it on)	Animasyon Boyacısı (açık kalması için çift tıklayın)
+	Animation Painter (double-click to keep it on)	Animasyon Fırçası (açık kalması için çift tıklayın)
 	Animation Pane	Animasyon Bölmesi
 	Animation Styles	Animasyon Stilleri
-	Animation\nPainter	Animasyon\nBoyacısı
+	Animation\nPainter	Animasyon\nFırçası
 	Animation\nPane	Animasyon\nBölmesi
 	Animations	Animasyonlar
 	Appear	Belir
@@ -235,7 +235,7 @@
 	Clock	Saat
 	Clockwise	Saat Yönünde
 	Close Path	Yolu Kapat
-	Close\nMaster View	Asıl Görünümü\nKapat
+	Close\nMaster View	Ana Şablon\nGörünümünü Kapat
 	Collapse the Ribbon	Şeridi Daralt
 	Color Pulse	Renk Darbesi
 	Columns…	Sütunlar…
@@ -379,8 +379,8 @@
 	Dotted diamond	Noktalı elmas
 	Dotted grid	Noktalı kafes
 	Double	Çift
-	Double Left	Çift Sol
-	Double Right	Çift Sağ
+	Double Left	Çift, Soldan
+	Double Right	Çift, Sağdan
 	Download the file	Dosyayı indir
 	Downward diagonal	Aşağı çapraz
 	Drape	Örtü
@@ -457,7 +457,7 @@
 	For rectangles and rounded rectangles	Dikdörtgenler ve yuvarlatılmış dikdörtgenler için
 	Format Background	Arka Planı Biçimlendir
 	Format Background…	Arka Planı Biçimlendir…
-	Format Painter (double-click to keep it on)	Biçim Boyacısı (açık kalması için çift tıklayın)
+	Format Painter (double-click to keep it on)	Biçim Fırçası (açık kalması için çift tıklayın)
 	Format Shape	Şekli Biçimlendir
 	Format Shape…	Şekli Biçimlendir…
 	Format\nBackground	Arka Planı\nBiçimlendir
@@ -504,9 +504,9 @@
 	Grow & Turn	Büyü ve Dön
 	Grow/Shrink	Büyüt/Küçült
 	HD (330 ppi): good quality for high-definition displays	HD (330 ppi): yüksek çözünürlüklü ekranlar için iyi kalite
-	Handout Master	Dinleyici Notu Asıl Sayfası
+	Handout Master	Dağıtım Ana Şablonu
 	Handout Placeholders	Dinleyici Notu Yer Tutucuları
-	Handout\nMaster	Dinleyici Notu\nAsıl Sayfası
+	Handout\nMaster	Dağıtım\nAna Şablonu
 	Handouts (1 slide per page)	Dinleyici notları (sayfa başına 1 slayt)
 	Handouts (2 slides per page)	Dinleyici notları (sayfa başına 2 slayt)
 	Handouts (3 slides per page)	Dinleyici notları (sayfa başına 3 slayt)
@@ -721,11 +721,11 @@
 	Not a copy of this presentation: slides are matched by position.	Bu sununun bir kopyası değil: slaytlar sıralarına göre eşleştirilir.
 	Not saved yet	Henüz kaydedilmedi
 	Notes	Notlar
-	Notes Master	Not Asıl Sayfası
+	Notes Master	Not Ana Şablonu
 	Notes Page	Not Sayfası
 	Notes Pages	Not Sayfaları
 	Notes Placeholders	Not Yer Tutucuları
-	Notes\nMaster	Not Asıl\nSayfası
+	Notes\nMaster	Not Ana\nŞablonu
 	Notes\nPage	Not\nSayfası
 	Nothing to print: every slide in the range is hidden.	Yazdırılacak bir şey yok: aralıktaki tüm slaytlar gizli.
 	Nudge	Az Kaydır
@@ -835,7 +835,7 @@
 	Play or pause media	Medyayı oynat veya duraklat
 	Play the shape's media	Şeklin medyasını oynat
 	Play this slide's animations on the canvas	Bu slaydın animasyonlarını tuvalde oynat
-	Playback	Kayıttan Yürütme
+	Playback	Oynatma
 	Plus	Artı
 	Plus In	Artı İçe
 	Plus Out	Artı Dışa
@@ -1030,15 +1030,15 @@
 	Simple, white	Sade, beyaz
 	Sine Wave	Sinüs Dalgası
 	Single	Tek
-	Single Left	Tek Sol
-	Single Right	Tek Sağ
+	Single Left	Tek, Soldan
+	Single Right	Tek, Sağdan
 	Sink Down	Batarak Çık
 	Size & Properties	Boyut ve Özellikler
 	Size (% of text):	Boyut (metnin %'si):
 	Size and Position	Boyut ve Konum
 	Size and Position…	Boyut ve Konum…
 	Slide Image	Slayt Görüntüsü
-	Slide Master	Asıl Slayt
+	Slide Master	Slayt Ana Şablonu
 	Slide Number	Slayt Numarası
 	Slide Show	Slayt Gösterisi
 	Slide Size	Slayt Boyutu
@@ -1054,7 +1054,7 @@
 	Slide {} changed	Slayt {} değişti
 	Slide {} deleted	Slayt {} silindi
 	Slide {}: “{w}”	Slayt {}: “{w}”
-	Slide\nMaster	Asıl\nSlayt
+	Slide\nMaster	Slayt Ana\nŞablonu
 	Slide\nNumber	Slayt\nNumarası
 	Slide\nSize	Slayt\nBoyutu
 	Slide\nSorter	Slayt\nSıralayıcısı
@@ -1262,7 +1262,7 @@
 	Window title bar	Pencere başlık çubuğu
 	Wipe	Silme
 	With	Yerine
-	With:	Yeni:
+	With:	Şununla:
 	WordArt	WordArt
 	Wrap Text in Shape	Metni Şeklin İçinde Kaydır
 	Wrap text in shape	Metni şeklin içinde kaydır
